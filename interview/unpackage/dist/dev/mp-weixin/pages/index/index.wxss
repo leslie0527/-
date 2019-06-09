@@ -1,0 +1,69 @@
+
+.content.data-v-3c179945 {
+	background: #FAFAFA;
+	font-weight: 100;
+	font-size: 14px;
+}
+.userInfo.data-v-3c179945{
+	background:#fff;
+	line-height: 52px;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	    -ms-flex-direction: row;
+	        flex-direction: row;
+	-webkit-box-pack: start;
+	-webkit-justify-content: flex-start;
+	    -ms-flex-pack: start;
+	        justify-content: flex-start;
+	padding: 13px 6px;
+}
+.name.data-v-3c179945{
+	float: left;
+	margin-left: 18px;
+}
+.phone.data-v-3c179945{
+	position: absolute;
+	left: 65%;
+}
+.userInfo image.data-v-3c179945{
+	width: 50px;
+	height: 50px;
+}
+.rider.data-v-3c179945{
+	margin-top: 57px;
+	background: white;
+}
+.rider .icon.data-v-3c179945{
+	width: 30px;
+	height: 24px;
+	margin-left: 16px;
+	margin-right: 18px;
+	vertical-align: middle;
+}
+.rider uni-list-item.data-v-3c179945{
+	height: 39px;
+	line-height: 39px;
+	border-bottom: 1px solid #f4f4f4;
+	display: block;
+}
+.btn.data-v-3c179945{
+	float: right;
+}
+.zhuandao.data-v-3c179945{
+	/* float: right; */
+	height: 15px;
+	width: 10px;
+	vertical-align: middle;
+	float: right;
+	margin-top: 13px;
+	margin-right: 20px;
+}
+.set.data-v-3c179945{
+	margin-top: 48px;
+}
+

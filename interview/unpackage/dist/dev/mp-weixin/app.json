@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "面试程序",
+    "navigationBarBackgroundColor": "#1BD5C3",
+    "backgroundColor": "white"
+  },
+  "tabBar": {
+    "backgroundColor": "#fff",
+    "color": "#7D7D7D",
+    "selectedColor": "#888888",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "寄件",
+        "iconPath": "static/寄件.png",
+        "selectedIconPath": "static/寄件_A.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "订单",
+        "iconPath": "static/订单.png",
+        "selectedIconPath": "static/订单_A.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "个人",
+        "iconPath": "static/个人.png",
+        "selectedIconPath": "static/个人_A.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
